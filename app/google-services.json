@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "685724040411",
+    "project_id": "reycle-view-item-click",
+    "storage_bucket": "reycle-view-item-click.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685724040411:android:c1662aeab870a7bce960fe",
+        "android_client_info": {
+          "package_name": "com.example.reycleviewitemclick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-4oO3r0dpsp5rxpyikJwKrPsiFMNkDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
